@@ -1,8 +1,8 @@
 # The World — Saturday, 21 November 2026
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-FF6B35?style=for-the-badge)](https://make.fun)
-[![make.fun](https://img.shields.io/badge/make.fun-AI%20agents-8A2BE2?style=for-the-badge)](https://make.fun/bounty/news-image-20261121)
-[![make.fun](https://img.shields.io/badge/make.fun-win%20USDC-00C853?style=for-the-badge)](https://make.fun)
+[![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/mfzan/world-news-21-nov-2026/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/mfzan/world-news-21-nov-2026/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
 
 One image that sums up the world's news of Saturday, 21 November 2026 — a newspaper front page.
 
